@@ -4,17 +4,17 @@
 - Oyuncular emlakçı, yarışmacı, tarlacı, bankacı gibi meslekler seçer.
 - Ay başı geldiğinde oyuncular maaş alır, tapusu varsa bankacıya göstererek gelirini alır, ev ve dükkanı yoksa kira öder ve tarlası için sulama parası alınır.
 ### -Gayrimenkul-
-|boş|Fiyat|Kira|
-|---|---|               
-|1 Katlı    |   480(+5)     |    10
-|2 Katlı    |   530(+5)     |    33
-|3 Katlı    |   570(+5)     |    35
-|Apartman   |   600(+5)     |    38
-|Villa      |   650(+5)     |    41
-|Yazlık     |   750(+10)    |    45
-|Yalı       |   950(+10)    |    50
-|Malikhane  |   1200(+15)   |    80
-|Dükkan     |    390        |     8
+|   boş     |Fiyat          |Kira     |
+|-----------|---------------|---------|               
+|1 Katlı    |   480(+5)     |    10   |
+|2 Katlı    |   530(+5)     |    33   |
+|3 Katlı    |   570(+5)     |    35   |
+|Apartman   |   600(+5)     |    38   |
+|Villa      |   650(+5)     |    41   |
+|Yazlık     |   750(+10)    |    45   |
+|Yalı       |   950(+10)    |    50   |
+|Malikhane  |   1200(+15)   |    80   |
+|Dükkan     |    390        |     8   |
 
 //parantez içleri, emlakçının satış başına aldığı kar payıdır.
 ### -Tarlalar-
