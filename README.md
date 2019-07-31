@@ -1,5 +1,5 @@
 # C++ Works
-##  commerceWarsv2.0
+##  commerceWarsV2.0
 ### -Genel Kurallar-
 - Oyuncular emlakçı, yarışmacı, tarlacı, bankacı gibi meslekler seçer.
 - Ay başı geldiğinde oyuncular maaş alır, tapusu varsa bankacıya göstererek gelirini alır, ev ve dükkanı yoksa kira öder ve tarlası için sulama parası alınır.
