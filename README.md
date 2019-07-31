@@ -32,6 +32,7 @@
 
 //parantez içleri, tarlacının satış başına aldığı kar payıdır.
 //sulama parası tarla başına 4 liradır.
+//oyuncu, tarla başına 1 traktör(45 lira) almalıdır.
 ### -Vade Hesabı Faiz Kuralı-
 |Para Miktarı  | Faiz   |
 |--------------|--------|
@@ -59,3 +60,8 @@
 |800           |130     |
 |900           |150     |
 |1000          |190     |
+### -Diğer-
+|İlk Maaş                 |400 lira|
+|Bankacı Maaşı            |85 lira |
+|Diğer Oyuncular Maaşı    |70 lira |
+|Bankacı Hata Yapma Cezası|50 lira |
