@@ -28,23 +28,20 @@
 |Soğan      |   650(+5)     |    41   |
 |Elma       |   750(+10)    |    45   |
 |Zeytin     |   950(+10)    |    50   |
-|Pamuk      |   1200(+15)   |    80   |
-
-               Fiyat         Gelir
-Buğday        300(+5)         30           
-Arpa          340(+5)         35              
-Tütün         360(+5)         40               
-Patates       400(+5)         45                 
-Soğan         440(+5)         50              
-Elma          460(+5)         55        
-Zeytin        480(+10)        60          
-Pamuk         550(+10)        65        
+|Pamuk      |   1200(+15)   |    80   |  
 
 //parantez içleri, tarlacının satış başına aldığı kar payıdır.
 //sulama parası tarla başına 4 liradır.
-###         
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+### -Vade Hesabı Faiz Kuralı-
+|Para Miktarı  | Faiz   |
+|--------------|--------|
+|100           |3       |
+|200           |8       |      
+|300           |12      |
+|400           |17      |
+|500           |23      |
+|600           |28      |
+|700           |33      |
+|800           |38      |
+|900           |43      |
+|1000          |50      |
