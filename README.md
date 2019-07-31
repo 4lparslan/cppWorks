@@ -31,3 +31,8 @@ Pamuk         550(+10)        65
 //parantez içleri, tarlacının satış başına aldığı kar payıdır.
 //sulama parası tarla başına 4 liradır.
 ###         
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
