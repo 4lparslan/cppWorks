@@ -1,4 +1,4 @@
-# commerceWarsGame
+# cppWorks
 ##  commerceWarsV2.0
 ### -Genel Kurallar-
 - Oyuncular emlakçı, yarışmacı, tarlacı, bankacı gibi meslekler seçer.
